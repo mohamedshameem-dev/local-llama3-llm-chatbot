@@ -36,6 +36,20 @@ pip install ollama
 ▶ Step 4: Run Chatbot
 python chatbot.py
 
-Type exit to stop.
+## Benefits:
+100% FREE
+100% Local
+No API key
+No billing
+
+## Disclaimer:
+Important Limitation (Current Version)
+This version:
+❌ Does NOT remember previous messages
+Each question is independent.
+If you want memory (real chatbot behavior), use upgraded version. Soon i will upload script with memory
+
+
+
 
 
