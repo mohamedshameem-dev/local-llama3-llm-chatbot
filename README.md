@@ -11,11 +11,11 @@ Python
 ## Developed by MrShameem
 
 🛠 Tech Stack
-Python 3.10+
-Ollama
-Llama3
-PowerShell
-VS Code
+-Python 3.10+
+-Ollama
+-Llama3
+-PowerShell
+-VS Code
 
 🖥 Step 1: Install Ollama
 
