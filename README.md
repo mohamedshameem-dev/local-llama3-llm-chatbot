@@ -1,23 +1,40 @@
 # 🤖 Local LLM Chatbot using Ollama & Llama3
 ## 📌 Overview
+## This project is a fully local AI chatbot built using:
 
-### This project is a fully local AI chatbot built using:
+* Ollama
+* Llama3 model
+* Python
 
-Ollama
-Llama3 model
-Python
+The chatbot is configured as an Ecommerce Payment Analyst Assistant. Developed by MrShameem
 
-## The chatbot is configured as an Ecommerce Payment Analyst Assistant.
-## Developed by MrShameem
+### 🎯 Purpose
+This project demonstrates:
+Local LLM deployment
+AI integration using Python
+Practical business use case (Ecommerce Payment Analysis)
+Prompt engineering for domain-specific assistant
+Ideal for showcasing AI + Business Analyst skills.
 
-🛠 Tech Stack
--Python 3.10+
--Ollama
--Llama3
--PowerShell
--VS Code
+### 🏗 Project Architecture
+* User Input
+↓
+* Python Chat Interface
+↓
+* Ollama Runtime
+↓
+* Llama3 Model (Local)
+↓
+* AI Response
 
-🖥 Step 1: Install Ollama
+## 🛠 Tech Stack
+- Python 3.10+
+- Ollama
+- Llama3
+- PowerShell
+- VS Code
+
+### Step 1: Install Ollama
 
 Download from:
 https://ollama.com/download
@@ -25,16 +42,27 @@ https://ollama.com/download
 Verify installation:
 ollama --version
 
-📥 Step 2: Install Llama3 Model
+### Step 2: Install Llama3 Model
 ollama pull llama3
 Test model:
 ollama run llama3
 
-🐍 Step 3: Install Python Dependency
+### Step 3: Install Python Dependency
 pip install ollama
 
-▶ Step 4: Run Chatbot
+### Step 4: Run Chatbot
 python chatbot.py
+
+### Recommended Model for 16GB RAM
+Use:
+- ollama pull llama3
+- This pulls the 8B version (best balance of:
+- Quality
+- Speed
+- RAM usage (~6–8GB)
+- Then run:
+- ollama run llama3
+- If it responds → you’re good.
 
 ## Benefits:
 100% FREE
