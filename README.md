@@ -77,6 +77,8 @@ This version:
 Each question is independent.
 If you want memory (real chatbot behavior), use upgraded version. Soon i will upload script with memory
 
+## Give a thumbs up if you really liked and learnt something from here.
+
 
 
 
